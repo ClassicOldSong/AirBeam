@@ -20,3 +20,7 @@
 - [Artemis](https://github.com/ClassicOldSong/moonlight-android) - Apollo 的 Android 客户端
 - [rEFui](https://github.com/SudoMaker/rEFui) - 基于 signal 的高性能前端框架
 - [Methanol](https://github.com/SudoMaker/methanol) - 基于 rEFui 和 MDX 的超高性能静态站点生成器。真的非常快，而且非常可自定义。
+
+## 注意
+
+小米/红米手机如果插入显示器/眼镜后不能被 AirBeam 识别，请在系统设置中打开 OTG 后再试。

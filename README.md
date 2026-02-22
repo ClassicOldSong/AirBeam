@@ -20,3 +20,8 @@ This also helps my other open source projects like:
 - [Artemis](https://github.com/ClassicOldSong/moonlight-android) - Android client for Apollo  
 - [rEFui](https://github.com/SudoMaker/rEFui) - A high-performance frontend framework based on signals  
 - [Methanol](https://github.com/SudoMaker/methanol) - An ultra-high-performance static site generator based on rEFui and MDX. It’s really very fast and highly customizable.
+
+
+## Note
+
+For Xiaomi/Redmi, if AirBeam can't detect external display after you plugged in a monitor/glasses, enable OTG in system settings and try again.
